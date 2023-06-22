@@ -23,3 +23,8 @@
     "react-dom": "^18.2.0"
   }
 }
+{
+  "scripts": {
+    "lint": "next lint"
+  }
+}
